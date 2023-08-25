@@ -1,0 +1,26 @@
+Teorics classes
+Genomes 
+
+Aula teórica (9h - 12 horas)
+Conceitos
+Áreas da genomics (Functional, structural, comparative, epigenomics and meta).
+Orthologia
+Eurística (every genome assembly is the result of a series of assembly heuristics and should accordingly be treated as a working hypothesis.)
+
+1. Genômica: introdução à genômica como campo interdisciplinar de estudo sobre a
+função, estrutura, evolução e edição do genoma. Principais pontos a serem discutidos:
+Sequenciamento de genomas
+O quê é um genoma? Como se gera um genoma?
+Tipos de sequenciamento de próxima geração (Shotgun sequencing , chain-termination method) (Next generation sequencing, Sequencing-by-synthesis) (Third genetion sequening tecnhologies, PacBio or Oxford, Nanopore, sequencing reads > 10 kb, Single cell).
+
+Sequenciamento por síntese Illumina
+
+2. Análise de genomas: sequenciamento do DNA dos organismos em questão, a
+montagem do modelo da sequência, a anotação. Principais pontos a discutir:
+Ensamblagem de genomas
+Mapeamento de genomas
+Anotação de genomas
+Validação e qualidade
+Formatos de arquivos bioinformáticos
+Repositórios e bancos de dados públicos
+
